@@ -1,0 +1,7 @@
+{
+  "name": "Greek Text-to-Speech",
+  "description": "Text-to-speech application with Greek voice personas, style controls, pitch and speed adjustments, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
